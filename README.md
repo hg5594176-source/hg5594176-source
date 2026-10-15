@@ -62,12 +62,30 @@ Full-stack workout and nutrition app with a client-side food-photo scanner that 
 
 👉 [See all repositories](https://github.com/hg5594176-source?tab=repositories)
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics & Commit Graphs
 
+### 📈 Contribution & Git Commits
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=hg5594176-source&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hg5594176-source&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hg5594176-source&theme=tokyonight" width="100%" alt="Contributions & Commit Activity Graph" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=hg5594176-source&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Commit Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=hg5594176-source&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats & Commits" />
+
+</div>
+
+### 🥧 Languages Used & Charts
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hg5594176-source&layout=donut&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages Donut Chart" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hg5594176-source&theme=tokyonight" width="48%" alt="Top Languages by Commit" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hg5594176-source&theme=tokyonight" width="48%" alt="Languages by Repository" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hg5594176-source&theme=tokyonight" width="48%" alt="Overall Stats Summary" />
 
 </div>
 

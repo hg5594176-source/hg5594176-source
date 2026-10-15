@@ -67,25 +67,25 @@ Full-stack workout and nutrition app with a client-side food-photo scanner that 
 ### 📈 Contribution & Git Commits
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hg5594176-source&theme=tokyonight" width="100%" alt="Contributions & Commit Activity Graph" />
+<img src="https://raw.githubusercontent.com/hg5594176-source/hg5594176-source/main/commit-graph.svg" width="100%" alt="Git Commit &amp; Contribution Activity" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=hg5594176-source&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Commit Streak" />
-<img src="https://github-readme-stats.vercel.app/api?username=hg5594176-source&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats & Commits" />
+<img src="https://streak-stats.demolab.com/?user=hg5594176-source&theme=dark&ring=39d353&fire=39d353&currStreakLabel=39d353&sideNums=39d353&sideLabels=8b949e&dates=8b949e&hide_border=true&background=0d1117" width="48%" alt="GitHub Commit Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=hg5594176-source&show_icons=true&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats & Commits" />
 
 </div>
 
 ### 🥧 Languages Used & Charts
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hg5594176-source&layout=donut&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages Donut Chart" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hg5594176-source&theme=tokyonight" width="48%" alt="Top Languages by Commit" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hg5594176-source&layout=donut&title_color=39d353&text_color=c9d1d9&bg_color=0d1117&hide_border=true" width="48%" alt="Top Languages Donut Chart" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hg5594176-source&theme=github_dark" width="48%" alt="Top Languages by Commit" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hg5594176-source&theme=tokyonight" width="48%" alt="Languages by Repository" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hg5594176-source&theme=tokyonight" width="48%" alt="Overall Stats Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hg5594176-source&theme=github_dark" width="48%" alt="Languages by Repository" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hg5594176-source&theme=github_dark" width="48%" alt="Overall Stats Summary" />
 
 </div>
 

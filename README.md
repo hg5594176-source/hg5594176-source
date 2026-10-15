@@ -5,9 +5,9 @@
 **B.Tech CSE (AI & ML) @ KIET Group of Institutions · Class of 2029**
 Building ML systems and full-stack products. Looking for **Software Engineering / Machine Learning internships**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111?logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/hitesh-gupta723581)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:hg5594176@gmail)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111?logo=vercel&logoColor=white)](https://https://portfolio-mu-lemon-wdctrur92t.vercel.app/)
 
 </div>
 

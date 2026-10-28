@@ -18,7 +18,7 @@ Building ML systems and full-stack products. Looking for **Software Engineering 
 - 🎓 Computer Science (AI & ML) student at KIET Group of Institutions, Ghaziabad, India
 - 🤖 Interested in applied machine learning, computer vision and robotics
 - 🛠️ I like shipping end-to-end: model → API → polished UI
-- 🔥 Completed a 50-day LeetCode streak
+- 🔥 Completed a 100-day LeetCode streak
 - ☁️ Google Cloud skill badges: Agent Development Kit, Prepare Data for ML APIs
 
 ## 🧰 Tech Stack
